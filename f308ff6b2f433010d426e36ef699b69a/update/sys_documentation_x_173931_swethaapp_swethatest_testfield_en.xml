@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="testfield" label="Testfield" language="en" table="x_173931_swethaapp_swethatest">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>testfield</element>
+            <help/>
+            <hint/>
+            <label>Testfield</label>
+            <language>en</language>
+            <name>x_173931_swethaapp_swethatest</name>
+            <plural>Testfields</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-13 17:46:56</sys_created_on>
+            <sys_id>d0097b6f2f433010d426e36ef699b66c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Testfield</sys_name>
+            <sys_package display_value="swethaapp" source="x_173931_swethaapp">f308ff6b2f433010d426e36ef699b69a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="swethaapp">f308ff6b2f433010d426e36ef699b69a</sys_scope>
+            <sys_update_name>sys_documentation_x_173931_swethaapp_swethatest_testfield_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-13 17:46:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
